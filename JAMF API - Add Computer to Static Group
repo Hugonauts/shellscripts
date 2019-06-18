@@ -43,3 +43,9 @@ curl -sSkiu ${apiuser}:${apipass} "${jssURL}/${GROUP_URL}" \
 # Update Jamf
 #########################################################################################
 sudo jamf recon
+
+
+
+
+
+#### END
