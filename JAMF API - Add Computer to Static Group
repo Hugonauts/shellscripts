@@ -19,7 +19,7 @@ COMPUTERNAME=$(curl -H "Accept: text/xml" -sfku "${apiuser}:${apipass}" "${jssUR
 #API Group ID, NAME & URL Identifiers
 #########################################################################################
 
-#NONDEPprestage
+#I Comment GroupName here, helps if Multiple Groups
 GROUP_ID="###"
 GROUP_NAME="NAME OF GROUP"
 GROUP_URL="JSSResource/computergroups/id/${GROUP_ID}"
